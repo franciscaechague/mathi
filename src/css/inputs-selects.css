@@ -1,0 +1,41 @@
+
+input, select {
+  font-size: 17px;
+  line-height: 1.23543;
+  font-weight: 400;
+  letter-spacing: -.022em;
+  font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+  display: inline-block;
+  box-sizing: border-box;
+  vertical-align: top;
+  height: 3.3em;
+  margin: 14px;
+  padding-left: 16px;
+  padding-right: 16px;
+  color: #333;
+  text-align: left;
+  border: 1px solid #d6d6d6;
+  border-radius: 4px;
+  background: hsla(0,0%,100%,.8);
+  background-clip: padding-box;
+}
+
+input {
+  width: 100%;
+}
+
+select {
+  margin: 14px 0 14px 14px;
+  width: 47%;
+}
+
+input::placeholder {
+  color: #8E8E93;
+}
+
+input:focus {
+  appearance: none;
+  border-color: #0070c9;
+  outline: 0;
+  box-shadow: 0 0 0 3px rgba(131, 192, 253, .5);
+}
