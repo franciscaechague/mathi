@@ -198,7 +198,7 @@ footer {
   width: 30%;
 }
 
-.footer_info img {
+.info img {
   margin: 1em;
   width: 1em;
   height: 1.4em;
@@ -207,6 +207,12 @@ footer {
 .info {
   display: flex;
   align-items: center;
+}
+
+.social_networks img {
+  margin: 1em;
+  width: 2em;
+  height: 2em;
 }
 
 .title_footer {
