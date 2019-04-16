@@ -80,7 +80,7 @@ h3 {
 }
 
 .form_container {
-  margin: 4em auto;
+  margin: 2em auto;
   padding-bottom: 4em;
   height: auto;
   width: 80%;
@@ -98,7 +98,7 @@ h3 {
 
 .main_form {
   width: 45%;
-  margin-top: 5em;
+  margin-top: 1em;
 }
 
 .contact_button {
@@ -177,32 +177,25 @@ h3 {
 }
 
 footer {
-  width: 100%;
   background-color: #000;
   color: #ffffff;
   padding: 1em;
 }
 
 .footer {
-  margin: 8em auto 1em auto;
+  margin: 0 auto;
   width: 90%;
   display: flex;
   align-content: center;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .footer_form {
-  margin-right: 6em;
   width: 20%;
 }
 
 .footer_map {
-  margin-right: 4em;
   width: 30%;
-}
-
-.footer_info {
-  width: 20%;
 }
 
 .footer_info img {
@@ -230,17 +223,26 @@ footer {
     width: 100%;
   }
 
+  .header h1 {
+    margin: 1em 0.5em 0em 0.5em;
+  }
+
   .header h3 {
-    width: 100%;
+    display: none;
   }
 
   .form_container, .main_form, select, input {
-    width: 100%;
+    width: 95%;
+  }
+
+  .form_container {
+    flex-flow: column-reverse;
+    justify-content: center;
   }
 
   .form_container img {
     height: 30em;
-    margin: 0 4em;
+    margin: 3em 4em 2em 4em;
   }
 
   .beneficio {
@@ -263,6 +265,7 @@ footer {
 
   .footer_form, .footer_map, .footer_info {
     width: 100%;
+    margin: 0;
   }
 
 }
