@@ -24,9 +24,16 @@ input {
   width: 100%;
 }
 
+.validation_error {
+  border-color: #de071c;
+  background: #fef0f0;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
 select {
   margin: 14px 0 14px 14px;
-  width: 47%;
+  width: 100%;
 }
 
 input::placeholder {
