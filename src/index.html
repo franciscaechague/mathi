@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="">
+<html class="no-js" lang="es">
 
 <head>
   <meta charset="utf-8">
@@ -28,7 +28,7 @@
   </div>
   <div class="form_container">
     <img src="img/iphone-xr-rojo.png" alt="">
-    <form action="contactar" action="/action_page.php" class="main_form">
+    <form class="main_form" name="main_form" method="post" onsubmit="validateform()">
       <select name="modelo" id="modelo">
         <option value="" disabled selected>¿Cuál es tu modelo de iPhone?</option>
         <option value="modelo1">iPhone XR</option>
@@ -65,8 +65,8 @@
         <option value="problema3">No funciona el botón de volumen</option>
         <option value="problema3">Otro problema</option>
       </select>
-      <input type="text" name="nombre" placeholder="Nombre y apellido">
-      <input type="text" name="email" id="email" onfocus="validate()" placeholder="Email">
+      <input type="text" name="nombre" id="name" placeholder="Nombre y apellido" required>
+      <input type="email" name="email" id="email" placeholder="Email" required>
       <input type="submit" value="Cotizar gratis" class="contact_button">
     </form>
   </div>
