@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3eaeffa0-8f2a-45a8-b24a-a3c8fc9cc5c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/SamsungOne-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/SamsungOne-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/SamsungSharpSans-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/.idea/parafran.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/bat/phpmailer/PHPMailerAutoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/bat/phpmailer/class.phpmailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/bat/phpmailer/class.pop3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/bat/phpmailer/class.smtp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/bat/rd-mailform.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/bat/rd-mailform.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/css/SF-font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/css/inputs-selects.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/apple_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/casa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/experiencia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/facebook_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/instagram_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/iphone-naranja.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/iphone-xr-rojo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/iphone_azul.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/iphone_gold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/location_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/personas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/reloj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/seve_jobs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/sincargo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/tarjetacredito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/telefono.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/img/twitter_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parafran/success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/css/SF-font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/css/inputs-selects.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/apple_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/casa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/experiencia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/facebook_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/instagram_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/iphone-naranja.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/iphone-xr-rojo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/iphone_azul.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/location_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/personas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/reloj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/seve_jobs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/sincargo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/tarjetacredito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/telefono.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/twitter_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/plugins.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.48245615">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-548">
+                  <caret line="68" column="12" lean-forward="true" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+                  <folding>
+                    <element signature="n#div#0;n#div#0;n#div#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#div#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#2;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#3;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/samsungSans.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="748">
+                  <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/main.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="646">
+                  <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="50" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/main.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="593">
+                  <caret line="134" column="18" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/main.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="345">
+                  <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/inputs-selects.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/SF-font.css" />
+        <option value="$USER_HOME$/Downloads/samsung-sans-4-cufonfonts-webfont/example.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/css/samsungSans.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/inputs-selects.css" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="celugadget_samsung" type="b2602c69:ProjectViewProjectNode" />
+              <item name="celugadget_samsung" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="celugadget_samsung" type="b2602c69:ProjectViewProjectNode" />
+              <item name="celugadget_samsung" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3eaeffa0-8f2a-45a8-b24a-a3c8fc9cc5c5" name="Default Changelist" comment="" />
+      <created>1556641242280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556641242280</updated>
+      <workItem from="1556641244902" duration="4668000" />
+      <workItem from="1557158155836" duration="7224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11892000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17540687" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/SF-font.css" />
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/samsung-sans-4-cufonfonts-webfont/example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/samsungSans.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-548">
+          <caret line="68" column="12" lean-forward="true" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/inputs-selects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="134" column="18" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

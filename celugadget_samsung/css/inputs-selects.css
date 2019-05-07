@@ -1,0 +1,22 @@
+.contact_button {
+  background-color: transparent;
+  color: #ffffff;
+  height: 50px;
+  width: auto;
+  padding: 1em 3em;
+  font-family: "SamsungOne 400", arial, sans-serif;
+  margin-top: 15px;
+  border: 3px solid #fff;
+  font-size: 13px;
+  text-transform: uppercase;
+  border-radius: 58px;
+  transform: translateY(0);
+  opacity: 1;
+  transition: 2s;
+}
+
+.contact_button:hover {
+  background: linear-gradient(to right, #20feee, #1079fb, #20feee, #1079fb);
+  background-size: 400% 400%;
+  background-position: 99% 50%;
+}
