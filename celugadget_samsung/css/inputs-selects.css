@@ -1,4 +1,23 @@
-.contact_button {
+input, select {
+  color: white;
+}
+
+select {
+  background-image:
+    linear-gradient(45deg, transparent 50%, white 50%),
+    linear-gradient(135deg, white 50%, transparent 50%),
+    linear-gradient(to right, transparent, transparent);
+}
+
+.form_container input::placeholder, .form_container select::placeholder {
+  color: #9e9e9e;
+}
+
+.footer_form input, .footer_form select {
+  color: #000;
+}
+
+.content_container .contact_button {
   background-color: transparent;
   color: #ffffff;
   height: 50px;

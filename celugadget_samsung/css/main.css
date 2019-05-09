@@ -92,12 +92,11 @@ h3 {
   text-align: center;
   display: flex;
   justify-content: space-around;
-  border-bottom: 1px solid #e7e7e8;
   flex-wrap: wrap;
 }
 
 .form_container img {
-  height: 35em;
+  height: 30em;
   margin: 0 4em;
 }
 
@@ -113,7 +112,6 @@ h3 {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  border-bottom: 1px solid #e7e7e8;
 }
 
 .beneficio {
@@ -131,53 +129,25 @@ h3 {
 }
 
 .beneficio p {
+  margin: 0.1em !important;
   font-family: "SamsungOne 700", arial, sans-serif;
   font-size: 17pt;
   color: #747474;
 }
 
-.img_icon {
+.beneficio img {
   margin: 1em;
-  width: 2em;
-  height: 2em;
-  padding: 1.5em;
-  background-color: #0070c9;
-  background: linear-gradient(#42a1ec,#0070c9);
-  border-radius: 25px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.img_icon img {
-  width: 3em;
+  width: 5em;
+  height: 5em;
 }
 
 .information_container {
-  width: 95%;
   display: flex;
-  flex-flow: column;
-  justify-content: center;
+  align-items: center;
 }
-
-.information_container h3 {
-  margin: 1em auto;
-  width: 40%;
-}
-
-.steve {
-  margin-top: 2em;
-  margin-bottom: 3em;
-  align-self: center;
-  width: 8em;
-  height: 8em;
-  border-radius: 50%;
-}
-
-.iphone_azul {
-  margin-top: 0em;
-  width: 55%;
-  align-self: flex-end;
+.information_container img {
+  margin: 0 auto;
+  width: 80vw;
 }
 
 footer {
@@ -259,9 +229,9 @@ footer {
   }
 
   .form_container img {
-    width: 10em;
-    height: 30em;
-    margin: 3em auto;
+    margin: auto;
+    width: 30em;
+    height: auto;
   }
 }
 
@@ -282,7 +252,7 @@ footer {
   }
 
   .header h1 {
-    margin: 1em 0.5em 0em 0.5em;
+    margin: 0.5em 0.5em 0em 0.5em !important;
   }
 
   .header h3 {
@@ -299,9 +269,9 @@ footer {
   }
 
   .form_container img {
-    width: 10em;
-    height: 30em;
-    margin: 3em auto;
+    /*width: 10em;*/
+    /*height: auto;*/
+    margin-top: 3em;
   }
 
   .beneficio {
