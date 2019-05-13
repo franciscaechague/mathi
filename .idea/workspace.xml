@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23750722-b991-4b78-a64c-b2a788658ff8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/celugadget_samsung/img/S7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/celugadget_samsung/css/inputs-selects.css" beforeDir="false" afterPath="$PROJECT_DIR$/celugadget_samsung/css/inputs-selects.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/celugadget_samsung/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/celugadget_samsung/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/celugadget_samsung/img/casa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/celugadget_samsung/img/experiencia.png" beforeDir="false" afterPath="$PROJECT_DIR$/celugadget_samsung/img/experiencia.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/celugadget_samsung/img/personas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/celugadget_samsung/img/reloj.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/celugadget_samsung/img/sincargo.png" beforeDir="false" afterPath="$PROJECT_DIR$/celugadget_samsung/img/sincargo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/celugadget_samsung/img/tarjetacredito.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/celugadget_samsung/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/celugadget_samsung/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="23750722-b991-4b78-a64c-b2a788658ff8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -30,8 +18,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/celugadget_samsung/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2198">
-                  <caret line="163" column="119" selection-start-line="163" selection-start-column="119" selection-end-line="163" selection-end-column="119" />
+                <state relative-caret-position="293">
+                  <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
                   <folding>
                     <element signature="n#style#0;n#input#2;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -175,12 +163,12 @@
       <workItem from="1555368342140" duration="7581000" />
       <workItem from="1555448915295" duration="2395000" />
       <workItem from="1556054193561" duration="10634000" />
-      <workItem from="1557251530725" duration="5828000" />
+      <workItem from="1557251530725" duration="6272000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39815000" />
+    <option name="totallyTimeSpent" value="40259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
@@ -256,20 +244,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/celugadget_samsung/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2198">
-          <caret line="163" column="119" selection-start-line="163" selection-start-column="119" selection-end-line="163" selection-end-column="119" />
-          <folding>
-            <element signature="n#style#0;n#input#2;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/celugadget_samsung/css/inputs-selects.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celugadget_samsung/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

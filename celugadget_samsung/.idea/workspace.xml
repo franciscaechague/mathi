@@ -2,82 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eaeffa0-8f2a-45a8-b24a-a3c8fc9cc5c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/SamsungOne-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/SamsungOne-700.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/SamsungSharpSans-Bold.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/.idea/parafran.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/bat/phpmailer/PHPMailerAutoload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/bat/phpmailer/class.phpmailer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/bat/phpmailer/class.pop3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/bat/phpmailer/class.smtp.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/bat/rd-mailform.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/bat/rd-mailform.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/css/SF-font.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/css/inputs-selects.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/apple_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/casa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/email.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/experiencia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/facebook_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/instagram_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/iphone-naranja.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/iphone-xr-rojo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/iphone_azul.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/iphone_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/location.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/location_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/personas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/reloj.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/seve_jobs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/sincargo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/tarjetacredito.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/telefono.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/img/twitter_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parafran/success.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/css/SF-font.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/css/inputs-selects.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/apple_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/casa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/email.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/experiencia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/facebook_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/instagram_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/iphone-naranja.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/iphone-xr-rojo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/iphone_azul.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/location.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/location_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/personas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/reloj.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/seve_jobs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/sincargo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/tarjetacredito.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/telefono.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/img/twitter_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/inputs-selects.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/inputs-selects.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/S7.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/S7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -89,19 +19,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.48245615">
+    <splitter split-orientation="horizontal" split-proportion="0.44252077">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-548">
-                  <caret line="68" column="12" lean-forward="true" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+                <state relative-caret-position="77">
+                  <caret line="9" column="59" lean-forward="true" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
                   <folding>
-                    <element signature="n#div#0;n#div#0;n#div#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#div#0;n#div#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#2;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#3;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#select#0;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#select#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#2;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#2;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#p#0;n#div#2;n#div#0;n#div#2;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -110,7 +45,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/samsungSans.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="748">
+                <state relative-caret-position="870">
                   <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="39" />
                 </state>
               </provider>
@@ -119,7 +54,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="646">
+                <state relative-caret-position="661">
                   <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="50" />
                 </state>
               </provider>
@@ -132,8 +67,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="593">
-                  <caret line="134" column="18" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
+                <state relative-caret-position="526">
+                  <caret line="273" column="17" selection-start-line="273" selection-start-column="17" selection-end-line="273" selection-end-column="17" />
                 </state>
               </provider>
             </entry>
@@ -141,7 +76,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/js/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
+                <state relative-caret-position="120">
                   <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
@@ -153,8 +88,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/inputs-selects.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+                <state relative-caret-position="540">
+                  <caret line="36" selection-start-line="36" selection-end-line="36" />
                 </state>
               </provider>
             </entry>
@@ -178,13 +113,13 @@
         <option value="$USER_HOME$/Downloads/samsung-sans-4-cufonfonts-webfont/example.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/css/samsungSans.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/inputs-selects.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
@@ -195,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,6 +146,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,17 +184,18 @@
       <updated>1556641242280</updated>
       <workItem from="1556641244902" duration="4668000" />
       <workItem from="1557158155836" duration="7224000" />
+      <workItem from="1557747667003" duration="4567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11892000" />
+    <option name="totallyTimeSpent" value="16459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17540687" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12959614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -283,16 +219,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/SF-font.css" />
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/samsung-sans-4-cufonfonts-webfont/example.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -302,35 +228,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/samsungSans.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
+        <state relative-caret-position="870">
           <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/S7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/inputs-selects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-548">
-          <caret line="68" column="12" lean-forward="true" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+        <state relative-caret-position="77">
+          <caret line="9" column="59" lean-forward="true" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#3;n#form#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#select#0;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#select#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#2;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#2;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#2;n#div#0;n#div#2;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/inputs-selects.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="134" column="18" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
+        <state relative-caret-position="526">
+          <caret line="273" column="17" selection-start-line="273" selection-start-column="17" selection-end-line="273" selection-end-column="17" />
         </state>
       </provider>
     </entry>
