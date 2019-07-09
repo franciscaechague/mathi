@@ -84,6 +84,10 @@ h3 {
   color: #ffffff;
 }
 
+.content_container p {
+  color: white;
+}
+
 .form_container {
   margin: 2em auto !important;
   padding-bottom: 4em;
